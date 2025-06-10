@@ -13,11 +13,11 @@ una arquitectura moderna basada en microservicios.
 - Despliegue: Azure App Service y Render.com
 
 📋 Endpoints principales
-GET    /api/reservas            # Listar reservas
-POST   /api/reservas            # Crear nueva reserva
-GET    /api/reservas/{id}       # Obtener una reserva por ID
-PUT    /api/reservas/{id}       # Actualizar una reserva
-DELETE /api/reservas/{id}       # Eliminar una reserva
+- GET    /api/reservas            # Listar reservas
+- POST   /api/reservas            # Crear nueva reserva
+- GET    /api/reservas/{id}       # Obtener una reserva por ID
+- PUT    /api/reservas/{id}       # Actualizar una reserva
+- DELETE /api/reservas/{id}       # Eliminar una reserva
 
 
 MIT ©NicollSevillano
