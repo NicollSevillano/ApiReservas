@@ -1,6 +1,6 @@
 📌 Introduction
 Reservation API is a RESTful microservice designed to manage the full reservation lifecycle, 
-including creation, retrieval, update, and deletion of bookings. It uses GUID (UUID v4) as 
+including creation, retrieval, update, and deletion of bookings. It uses INT as 
 unique identifiers to ensure consistency across microservices and improve traceability. 
 Built with scalability in mind, this service is optimized for deployment in cloud environments 
 such as Azure and Render, as part of a modern microservices architecture.
@@ -8,7 +8,7 @@ such as Azure and Render, as part of a modern microservices architecture.
 🧱 Technologies
 - Framework: ASP.NET Core
 - Database: SQL Server
-- Identifiers: GUID as universal resource IDs
+- Identifiers: INT as universal resource IDs
 - Authentication: JWT
 - Deployment: Azure App Service & Render.com
 
