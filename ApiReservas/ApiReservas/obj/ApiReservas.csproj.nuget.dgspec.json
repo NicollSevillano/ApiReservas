@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicol\\Escritorio\\API\\ApiReservas\\ApiReservas\\ApiReservas.csproj": {}
+    "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\ApiReservas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicol\\Escritorio\\API\\ApiReservas\\ApiReservas\\ApiReservas.csproj": {
+    "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\ApiReservas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicol\\Escritorio\\API\\ApiReservas\\ApiReservas\\ApiReservas.csproj",
+        "projectUniqueName": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\ApiReservas.csproj",
         "projectName": "ApiReservas",
-        "projectPath": "C:\\Users\\nicol\\Escritorio\\API\\ApiReservas\\ApiReservas\\ApiReservas.csproj",
-        "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicol\\Escritorio\\API\\ApiReservas\\ApiReservas\\obj\\",
+        "projectPath": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\ApiReservas.csproj",
+        "packagesPath": "C:\\Users\\nssev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nssev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -85,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
