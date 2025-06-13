@@ -1,8 +1,10 @@
 using ApiReservas.Models;
+using System.ComponentModel.DataAnnotations;
 
 public class Client : IEntity
 {
     public int Id { get; set; }
+    [Required]
     public required string FullName { get; set; }
     public string? Neighborhood { get; set; }
     public string? Lation { get; set; }
