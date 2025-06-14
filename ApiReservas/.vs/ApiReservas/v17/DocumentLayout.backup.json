@@ -3,48 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Migrations\\20250612231909_Prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiReservas\\Migrations\\20250612231909_Prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A068328C-9F08-4C51-B073-FF2DD19CE688}|ApiReservas\\ApiReservas.csproj|c:\\users\\nssev\\onedrive\\escritorio\\api\\apireservas\\apireservas\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A068328C-9F08-4C51-B073-FF2DD19CE688}|ApiReservas\\ApiReservas.csproj|solutionrelative:apireservas\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A068328C-9F08-4C51-B073-FF2DD19CE688}|ApiReservas\\ApiReservas.csproj|c:\\users\\nssev\\onedrive\\escritorio\\api\\apireservas\\apireservas\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A068328C-9F08-4C51-B073-FF2DD19CE688}|ApiReservas\\ApiReservas.csproj|solutionrelative:apireservas\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A068328C-9F08-4C51-B073-FF2DD19CE688}|ApiReservas\\ApiReservas.csproj|c:\\users\\nssev\\onedrive\\escritorio\\api\\apireservas\\apireservas\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A068328C-9F08-4C51-B073-FF2DD19CE688}|ApiReservas\\ApiReservas.csproj|solutionrelative:apireservas\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A068328C-9F08-4C51-B073-FF2DD19CE688}|ApiReservas\\ApiReservas.csproj|c:\\users\\nssev\\onedrive\\escritorio\\api\\apireservas\\apireservas\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A068328C-9F08-4C51-B073-FF2DD19CE688}|ApiReservas\\ApiReservas.csproj|solutionrelative:apireservas\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A068328C-9F08-4C51-B073-FF2DD19CE688}|ApiReservas\\ApiReservas.csproj|c:\\users\\nssev\\onedrive\\escritorio\\api\\apireservas\\apireservas\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A068328C-9F08-4C51-B073-FF2DD19CE688}|ApiReservas\\ApiReservas.csproj|solutionrelative:apireservas\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A068328C-9F08-4C51-B073-FF2DD19CE688}|ApiReservas\\ApiReservas.csproj|c:\\users\\nssev\\onedrive\\escritorio\\api\\apireservas\\apireservas\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A068328C-9F08-4C51-B073-FF2DD19CE688}|ApiReservas\\ApiReservas.csproj|solutionrelative:apireservas\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A068328C-9F08-4C51-B073-FF2DD19CE688}|ApiReservas\\ApiReservas.csproj|c:\\users\\nssev\\onedrive\\escritorio\\api\\apireservas\\apireservas\\dtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A068328C-9F08-4C51-B073-FF2DD19CE688}|ApiReservas\\ApiReservas.csproj|solutionrelative:apireservas\\dtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A068328C-9F08-4C51-B073-FF2DD19CE688}|ApiReservas\\ApiReservas.csproj|c:\\users\\nssev\\onedrive\\escritorio\\api\\apireservas\\apireservas\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A068328C-9F08-4C51-B073-FF2DD19CE688}|ApiReservas\\ApiReservas.csproj|solutionrelative:apireservas\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Migrations\\20250612230849_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiReservas\\Migrations\\20250612230849_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A068328C-9F08-4C51-B073-FF2DD19CE688}|ApiReservas\\ApiReservas.csproj|c:\\users\\nssev\\onedrive\\escritorio\\api\\apireservas\\apireservas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A068328C-9F08-4C51-B073-FF2DD19CE688}|ApiReservas\\ApiReservas.csproj|solutionrelative:apireservas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A068328C-9F08-4C51-B073-FF2DD19CE688}|ApiReservas\\ApiReservas.csproj|c:\\users\\nssev\\onedrive\\escritorio\\api\\apireservas\\apireservas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A068328C-9F08-4C51-B073-FF2DD19CE688}|ApiReservas\\ApiReservas.csproj|solutionrelative:apireservas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A068328C-9F08-4C51-B073-FF2DD19CE688}|ApiReservas\\ApiReservas.csproj|c:\\users\\nssev\\onedrive\\escritorio\\api\\apireservas\\apireservas\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A068328C-9F08-4C51-B073-FF2DD19CE688}|ApiReservas\\ApiReservas.csproj|solutionrelative:apireservas\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A068328C-9F08-4C51-B073-FF2DD19CE688}|ApiReservas\\ApiReservas.csproj|c:\\users\\nssev\\onedrive\\escritorio\\api\\apireservas\\apireservas\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A068328C-9F08-4C51-B073-FF2DD19CE688}|ApiReservas\\ApiReservas.csproj|solutionrelative:apireservas\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Models\\Reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiReservas\\Models\\Reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,143 +47,100 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250612231909_Prueba.cs",
-              "DocumentMoniker": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Migrations\\20250612231909_Prueba.cs",
-              "RelativeDocumentMoniker": "ApiReservas\\Migrations\\20250612231909_Prueba.cs",
-              "ToolTip": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Migrations\\20250612231909_Prueba.cs",
-              "RelativeToolTip": "ApiReservas\\Migrations\\20250612231909_Prueba.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T23:19:09.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClientsController.cs",
-              "DocumentMoniker": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Controllers\\ClientsController.cs",
-              "RelativeDocumentMoniker": "ApiReservas\\Controllers\\ClientsController.cs",
-              "ToolTip": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Controllers\\ClientsController.cs",
-              "RelativeToolTip": "ApiReservas\\Controllers\\ClientsController.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T23:16:31.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReservationsController.cs",
-              "DocumentMoniker": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Controllers\\ReservationsController.cs",
-              "RelativeDocumentMoniker": "ApiReservas\\Controllers\\ReservationsController.cs",
-              "ToolTip": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Controllers\\ReservationsController.cs",
-              "RelativeToolTip": "ApiReservas\\Controllers\\ReservationsController.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T23:15:39.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Models\\Client.cs",
-              "RelativeDocumentMoniker": "ApiReservas\\Models\\Client.cs",
-              "ToolTip": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Models\\Client.cs",
-              "RelativeToolTip": "ApiReservas\\Models\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T23:12:49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Reservation.cs",
-              "DocumentMoniker": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Models\\Reservation.cs",
-              "RelativeDocumentMoniker": "ApiReservas\\Models\\Reservation.cs",
-              "ToolTip": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Models\\Reservation.cs",
-              "RelativeToolTip": "ApiReservas\\Models\\Reservation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T23:12:45.225Z",
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\.gitignore",
+              "RelativeDocumentMoniker": "ApiReservas\\.gitignore",
+              "ToolTip": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\.gitignore",
+              "RelativeToolTip": "ApiReservas\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-14T00:11:26.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "20250612230849_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Migrations\\20250612230849_Initial.cs",
-              "RelativeDocumentMoniker": "ApiReservas\\Migrations\\20250612230849_Initial.cs",
-              "ToolTip": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Migrations\\20250612230849_Initial.cs",
-              "RelativeToolTip": "ApiReservas\\Migrations\\20250612230849_Initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Title": "ReservationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\DTOs\\ReservationDTO.cs",
+              "RelativeDocumentMoniker": "ApiReservas\\DTOs\\ReservationDTO.cs",
+              "ToolTip": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\DTOs\\ReservationDTO.cs",
+              "RelativeToolTip": "ApiReservas\\DTOs\\ReservationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T23:08:49.629Z",
+              "WhenOpened": "2025-06-13T23:24:27.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\DTOs\\ClientDTO.cs",
+              "RelativeDocumentMoniker": "ApiReservas\\DTOs\\ClientDTO.cs",
+              "ToolTip": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\DTOs\\ClientDTO.cs",
+              "RelativeToolTip": "ApiReservas\\DTOs\\ClientDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T23:24:12.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "ApiReservas\\Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "ApiReservas\\Controllers\\ReservationsController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAACEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T23:18:23.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "ApiReservas\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\appsettings.Development.json",
-              "RelativeToolTip": "ApiReservas\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-12T23:06:06.841Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "ApiReservas\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "ApiReservas\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA0wCIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T23:18:10.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\appsettings.json",
-              "RelativeDocumentMoniker": "ApiReservas\\appsettings.json",
-              "ToolTip": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\appsettings.json",
-              "RelativeToolTip": "ApiReservas\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-12T23:06:00.796Z",
-              "EditorCaption": ""
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "ApiReservas\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Models\\Client.cs",
+              "RelativeToolTip": "ApiReservas\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T23:17:04.537Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "ApiReservas\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Models\\Reservation.cs",
+              "RelativeToolTip": "ApiReservas\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T22:54:06.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Program.cs",
               "RelativeDocumentMoniker": "ApiReservas\\Program.cs",
               "ToolTip": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Program.cs",
               "RelativeToolTip": "ApiReservas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T12:25:49.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ApiReservas\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ApiReservas\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T00:10:02.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Reserva.cs",
-              "DocumentMoniker": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Models\\Reserva.cs",
-              "RelativeDocumentMoniker": "ApiReservas\\Models\\Reserva.cs",
-              "ToolTip": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\ApiReservas\\Models\\Reserva.cs",
-              "RelativeToolTip": "ApiReservas\\Models\\Reserva.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T00:08:58.967Z"
+              "WhenOpened": "2025-06-10T12:25:49.092Z"
             }
           ]
         }

@@ -1,5 +1,8 @@
-public class ReservationDTO : IEntity
+﻿namespace ApiReservas.DTOs
 {
-    public int Id { get; set; }
-    public required string ReservationType { get; set; }
+    public class ReservationDTO : IEntity
+    {
+        public int Id { get; set; }
+        public required string ReservationType { get; set; }
+    }
 }

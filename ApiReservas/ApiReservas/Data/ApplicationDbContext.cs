@@ -1,5 +1,6 @@
 ﻿using ApiReservas.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace ApiReservas.Data
 {

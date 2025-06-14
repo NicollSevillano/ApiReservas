@@ -6,11 +6,13 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ApiReservas.Data;
+using ApiReservas.Models;
+using ApiReservas.DTOs;
 
 namespace ApiReservas.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
+    [Route("api/[controller]")]
     public class ClientsController : ControllerBase
     {
         private readonly ApplicationDbContext _context;
@@ -20,14 +22,22 @@ namespace ApiReservas.Controllers
             _context = context;
         }
 
-        // GET: api/Clients
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Client>>> GetClients()
+        public async Task<ActionResult<IEnumerable<ClientDTO>>> GetClients()
         {
-            return await _context.Clients.ToListAsync();
+            var clients = await _context.Clients.Select(cli => new ClientDTO
+            {
+                Id = cli.Id,
+                FullName = cli.FullName,
+                Neighborhood = cli.Neighborhood,
+                Location = cli.Location,
+                Phone = cli.Phone,
+                Email = cli.Email
+
+            }).ToListAsync();
+            return Ok(clients);
         }
 
-        // GET: api/Clients/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Client>> GetClient(int id)
         {
@@ -41,8 +51,6 @@ namespace ApiReservas.Controllers
             return client;
         }
 
-        // PUT: api/Clients/5
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
         public async Task<IActionResult> PutClient(int id, Client client)
         {
@@ -72,18 +80,24 @@ namespace ApiReservas.Controllers
             return NoContent();
         }
 
-        // POST: api/Clients
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-        public async Task<ActionResult<Client>> PostClient(Client client)
+        public async Task<ActionResult<ClientDTO>> PostClient(ClientDTO client)
         {
-            _context.Clients.Add(client);
+            var cli = new Client
+            {
+                FullName = client.FullName,
+                Neighborhood = client.Neighborhood,
+                Location = client.Location,
+                Phone = client.Phone,
+                Email = client.Email
+            };
+            _context.Clients.Add(cli);
             await _context.SaveChangesAsync();
 
+            client.Id = cli.Id;
             return CreatedAtAction("GetClient", new { id = client.Id }, client);
         }
 
-        // DELETE: api/Clients/5
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteClient(int id)
         {
