@@ -24,6 +24,16 @@ namespace Reservas.Infrastructure.Repositories
             return reservation;
         }
 
+        public async Task<bool> DeleteAsync(Guid id)
+        {
+            var reservation = await _context.Reservations.FindAsync(id);
+            if (reservation == null) return false;
+
+            _context.Reservations.Remove(reservation);
+            await _context.SaveChangesAsync();
+            return true;
+        }
+
         public async Task<IEnumerable<Reservation>> GetAllAsync()
         {
             return await _context.Reservations
@@ -35,14 +45,21 @@ namespace Reservas.Infrastructure.Repositories
         {
             return await _context.Reservations
                 .Where(r => r.ClientId == clientId)
+                .Include(r => r.Client) 
                 .ToListAsync();
         }
-
         public async Task<Reservation> GetByIdAsync(Guid id)
         {
             return await _context.Reservations
                 .Include(r => r.Client)
                 .FirstOrDefaultAsync(r => r.Id == id);
+        }
+
+        public async Task<Reservation> UpdateAsync(Reservation reservation)
+        {
+            _context.Reservations.Update(reservation);
+            await _context.SaveChangesAsync();
+            return reservation;
         }
     }
 }

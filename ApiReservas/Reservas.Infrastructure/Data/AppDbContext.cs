@@ -21,6 +21,7 @@ namespace Reservas.Infrastructure.Data
                 .HasMany(c => c.Reservations)
                 .WithOne(r => r.Client)
                 .HasForeignKey(r => r.ClientId);
+
             base.OnModelCreating(modelBuilder);
         }
     }

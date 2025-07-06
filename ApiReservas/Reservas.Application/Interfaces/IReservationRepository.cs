@@ -13,5 +13,7 @@ namespace Reservas.Application.Interfaces
         Task<Reservation> GetByIdAsync(Guid id);
         Task<IEnumerable<Reservation>> GetAllAsync();
         Task<IEnumerable<Reservation>> GetByClientIdAsync(Guid clientId);
+        Task<Reservation> UpdateAsync(Reservation reservation);
+        Task<bool> DeleteAsync(Guid id);
     }
 }

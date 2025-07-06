@@ -1,1 +1,24 @@
-.vs/
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# Migrations (opcional, si quieres generarlas por entorno)
+# Puedes ignorarlas si prefieres crearlas local
+# Reservas.Infrastructure/Migrations/
+
+# Secretos locales
+appsettings.Development.json
+secrets.json

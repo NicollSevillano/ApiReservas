@@ -24,6 +24,16 @@ namespace Reservas.Infrastructure.Repositories
             return client;
         }
 
+        public async Task<bool> DeleteAsync(Guid id)
+        {
+            var client = await _context.Clients.FindAsync(id);
+            if (client == null) return false;
+
+            _context.Clients.Remove(client);
+            await _context.SaveChangesAsync();
+            return true;
+        }
+
         public async Task<IEnumerable<Client>> GetAllAsync()
         {
             return await _context.Clients
@@ -36,6 +46,12 @@ namespace Reservas.Infrastructure.Repositories
             return await _context.Clients
                 .Include(c => c.Reservations)
                 .FirstOrDefaultAsync(c => c.Id == id);
+        }
+        public async Task<Client> UpdateAsync(Client client)
+        {
+            _context.Clients.Update(client);
+            await _context.SaveChangesAsync();
+            return client;
         }
     }
 }
