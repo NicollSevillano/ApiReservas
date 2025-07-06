@@ -1,0 +1,15 @@
+C:\Users\Nicoll\Desktop\ApiReservas\ApiReservas\Reservas.Domain\bin\Debug\net9.0\Reservas.Domain.deps.json
+C:\Users\Nicoll\Desktop\ApiReservas\ApiReservas\Reservas.Domain\bin\Debug\net9.0\Reservas.Domain.runtimeconfig.json
+C:\Users\Nicoll\Desktop\ApiReservas\ApiReservas\Reservas.Domain\bin\Debug\net9.0\Reservas.Domain.dll
+C:\Users\Nicoll\Desktop\ApiReservas\ApiReservas\Reservas.Domain\bin\Debug\net9.0\Reservas.Domain.pdb
+C:\Users\Nicoll\Desktop\ApiReservas\ApiReservas\Reservas.Domain\obj\Debug\net9.0\Reservas.Domain.csproj.AssemblyReference.cache
+C:\Users\Nicoll\Desktop\ApiReservas\ApiReservas\Reservas.Domain\obj\Debug\net9.0\Reservas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicoll\Desktop\ApiReservas\ApiReservas\Reservas.Domain\obj\Debug\net9.0\Reservas.Domain.AssemblyInfoInputs.cache
+C:\Users\Nicoll\Desktop\ApiReservas\ApiReservas\Reservas.Domain\obj\Debug\net9.0\Reservas.Domain.AssemblyInfo.cs
+C:\Users\Nicoll\Desktop\ApiReservas\ApiReservas\Reservas.Domain\obj\Debug\net9.0\Reservas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nicoll\Desktop\ApiReservas\ApiReservas\Reservas.Domain\obj\Debug\net9.0\Reservas.Domain.sourcelink.json
+C:\Users\Nicoll\Desktop\ApiReservas\ApiReservas\Reservas.Domain\obj\Debug\net9.0\Reservas.Domain.dll
+C:\Users\Nicoll\Desktop\ApiReservas\ApiReservas\Reservas.Domain\obj\Debug\net9.0\refint\Reservas.Domain.dll
+C:\Users\Nicoll\Desktop\ApiReservas\ApiReservas\Reservas.Domain\obj\Debug\net9.0\Reservas.Domain.pdb
+C:\Users\Nicoll\Desktop\ApiReservas\ApiReservas\Reservas.Domain\obj\Debug\net9.0\Reservas.Domain.genruntimeconfig.cache
+C:\Users\Nicoll\Desktop\ApiReservas\ApiReservas\Reservas.Domain\obj\Debug\net9.0\ref\Reservas.Domain.dll

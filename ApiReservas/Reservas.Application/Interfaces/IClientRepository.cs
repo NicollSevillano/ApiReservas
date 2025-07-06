@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Reservas.Domain.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,5 +9,8 @@ namespace Reservas.Application.Interfaces
 {
     public interface IClientRepository
     {
+        Task<Client> AddAsync(Client client);
+        Task<Client?> GetByIdAsync(Guid id);
+        Task<IEnumerable<Client>> GetAllAsync();
     }
 }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.API\\Reservas.API.csproj": {}
+    "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.API\\Reservas.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.API\\Reservas.API.csproj": {
+    "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.API\\Reservas.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.API\\Reservas.API.csproj",
+        "projectUniqueName": "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.API\\Reservas.API.csproj",
         "projectName": "Reservas.API",
-        "projectPath": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.API\\Reservas.API.csproj",
-        "packagesPath": "C:\\Users\\nssev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.API\\obj\\",
+        "projectPath": "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.API\\Reservas.API.csproj",
+        "packagesPath": "C:\\Users\\Nicoll\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\nssev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nicoll\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,11 +33,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.Application\\Reservas.Application.csproj": {
-                "projectPath": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.Application\\Reservas.Application.csproj"
+              "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Application\\Reservas.Application.csproj": {
+                "projectPath": "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Application\\Reservas.Application.csproj"
               },
-              "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.Infrastructure\\Reservas.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.Infrastructure\\Reservas.Infrastructure.csproj"
+              "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Infrastructure\\Reservas.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Infrastructure\\Reservas.Infrastructure.csproj"
               }
             }
           }
@@ -58,10 +58,6 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "FluentValidation.AspNetCore": {
-              "target": "Package",
-              "version": "[11.3.1, )"
-            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.6, )"
@@ -112,24 +108,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.Application\\Reservas.Application.csproj": {
+    "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Application\\Reservas.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.Application\\Reservas.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Application\\Reservas.Application.csproj",
         "projectName": "Reservas.Application",
-        "projectPath": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.Application\\Reservas.Application.csproj",
-        "packagesPath": "C:\\Users\\nssev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.Application\\obj\\",
+        "projectPath": "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Application\\Reservas.Application.csproj",
+        "packagesPath": "C:\\Users\\Nicoll\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\nssev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nicoll\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -145,8 +141,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.Domain\\Reservas.Domain.csproj": {
-                "projectPath": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.Domain\\Reservas.Domain.csproj"
+              "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Domain\\Reservas.Domain.csproj": {
+                "projectPath": "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Domain\\Reservas.Domain.csproj"
               }
             }
           }
@@ -167,10 +163,6 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "FluentValidation.AspNetCore": {
-              "target": "Package",
-              "version": "[11.3.1, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.6, )"
@@ -214,24 +206,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.Domain\\Reservas.Domain.csproj": {
+    "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Domain\\Reservas.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.Domain\\Reservas.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Domain\\Reservas.Domain.csproj",
         "projectName": "Reservas.Domain",
-        "projectPath": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.Domain\\Reservas.Domain.csproj",
-        "packagesPath": "C:\\Users\\nssev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Domain\\Reservas.Domain.csproj",
+        "packagesPath": "C:\\Users\\Nicoll\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\nssev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nicoll\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -265,10 +257,6 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "FluentValidation.AspNetCore": {
-              "target": "Package",
-              "version": "[11.3.1, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.6, )"
@@ -312,24 +300,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.Infrastructure\\Reservas.Infrastructure.csproj": {
+    "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Infrastructure\\Reservas.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.Infrastructure\\Reservas.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Infrastructure\\Reservas.Infrastructure.csproj",
         "projectName": "Reservas.Infrastructure",
-        "projectPath": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.Infrastructure\\Reservas.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\nssev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Infrastructure\\Reservas.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Nicoll\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\nssev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nicoll\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -345,11 +333,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.Application\\Reservas.Application.csproj": {
-                "projectPath": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.Application\\Reservas.Application.csproj"
+              "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Application\\Reservas.Application.csproj": {
+                "projectPath": "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Application\\Reservas.Application.csproj"
               },
-              "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.Domain\\Reservas.Domain.csproj": {
-                "projectPath": "C:\\Users\\nssev\\OneDrive\\Escritorio\\API\\ApiReservas\\Reservas.Domain\\Reservas.Domain.csproj"
+              "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Domain\\Reservas.Domain.csproj": {
+                "projectPath": "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Domain\\Reservas.Domain.csproj"
               }
             }
           }
@@ -370,10 +358,6 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "FluentValidation.AspNetCore": {
-              "target": "Package",
-              "version": "[11.3.1, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.6, )"
@@ -417,7 +401,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
