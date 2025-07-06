@@ -15,8 +15,6 @@ obj/
 # Logs
 *.log
 
-# Migrations (opcional, si quieres generarlas por entorno)
-# Puedes ignorarlas si prefieres crearlas local
 # Reservas.Infrastructure/Migrations/
 
 # Secretos locales
