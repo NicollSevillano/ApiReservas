@@ -1,10 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Reservas.Domain.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Reservas.Infrastructure.Data
 {
@@ -21,6 +16,10 @@ namespace Reservas.Infrastructure.Data
                 .HasMany(c => c.Reservations)
                 .WithOne(r => r.Client)
                 .HasForeignKey(r => r.ClientId);
+
+            modelBuilder.Entity<Reservation>()
+                .Property(r => r.Precio)
+                .HasColumnType("numeric(10,2)");
 
             base.OnModelCreating(modelBuilder);
         }

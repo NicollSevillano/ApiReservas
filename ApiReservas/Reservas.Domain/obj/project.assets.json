@@ -5278,23 +5278,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nicoll\\.nuget\\packages\\": {},
+    "C:\\Users\\nssev\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Domain\\Reservas.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\nssev\\OneDrive\\Escritorio\\APIs\\RESTful-Reservas\\ApiReservas\\Reservas.Domain\\Reservas.Domain.csproj",
       "projectName": "Reservas.Domain",
-      "projectPath": "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Domain\\Reservas.Domain.csproj",
-      "packagesPath": "C:\\Users\\Nicoll\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Domain\\obj\\",
+      "projectPath": "C:\\Users\\nssev\\OneDrive\\Escritorio\\APIs\\RESTful-Reservas\\ApiReservas\\Reservas.Domain\\Reservas.Domain.csproj",
+      "packagesPath": "C:\\Users\\nssev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nssev\\OneDrive\\Escritorio\\APIs\\RESTful-Reservas\\ApiReservas\\Reservas.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Nicoll\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nssev\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5371,7 +5371,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

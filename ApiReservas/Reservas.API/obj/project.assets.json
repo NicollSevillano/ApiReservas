@@ -1052,6 +1052,40 @@
           "lib/net6.0/Moq.dll": {}
         }
       },
+      "Npgsql/9.0.3": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.2"
+        },
+        "compile": {
+          "lib/net8.0/Npgsql.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Npgsql.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Npgsql.EntityFrameworkCore.PostgreSQL/9.0.4": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "[9.0.1, 10.0.0)",
+          "Microsoft.EntityFrameworkCore.Relational": "[9.0.1, 10.0.0)",
+          "Npgsql": "9.0.3"
+        },
+        "compile": {
+          "lib/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Swashbuckle.AspNetCore/9.0.1": {
         "type": "package",
         "dependencies": {
@@ -1888,6 +1922,7 @@
           "Microsoft.EntityFrameworkCore": "9.0.6",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.6",
           "Moq": "4.20.72",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.4",
           "Reservas.Application": "1.0.0",
           "Reservas.Domain": "1.0.0",
           "Swashbuckle.AspNetCore": "9.0.1",
@@ -3951,6 +3986,38 @@
         "readme.md"
       ]
     },
+    "Npgsql/9.0.3": {
+      "sha512": "tPvY61CxOAWxNsKLEBg+oR646X4Bc8UmyQ/tJszL/7mEmIXQnnBhVJZrZEEUv0Bstu0mEsHZD5At3EO8zQRAYw==",
+      "type": "package",
+      "path": "npgsql/9.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net6.0/Npgsql.dll",
+        "lib/net6.0/Npgsql.xml",
+        "lib/net8.0/Npgsql.dll",
+        "lib/net8.0/Npgsql.xml",
+        "npgsql.9.0.3.nupkg.sha512",
+        "npgsql.nuspec",
+        "postgresql.png"
+      ]
+    },
+    "Npgsql.EntityFrameworkCore.PostgreSQL/9.0.4": {
+      "sha512": "mw5vcY2IEc7L+IeGrxpp/J5OSnCcjkjAgJYCm/eD52wpZze8zsSifdqV7zXslSMmfJG2iIUGZyo3KuDtEFKwMQ==",
+      "type": "package",
+      "path": "npgsql.entityframeworkcore.postgresql/9.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll",
+        "lib/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.xml",
+        "npgsql.entityframeworkcore.postgresql.9.0.4.nupkg.sha512",
+        "npgsql.entityframeworkcore.postgresql.nuspec",
+        "postgresql.png"
+      ]
+    },
     "Swashbuckle.AspNetCore/9.0.1": {
       "sha512": "lmaz0juKGq8VgeCOki98OUVdEH7rvgBST0QrlWXNOxBl7ujNWyqdqj2SMAdgpQfTtBlSQUTHRslRM+0j7El5tA==",
       "type": "package",
@@ -5378,6 +5445,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.6",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.6",
       "Moq >= 4.20.72",
+      "Npgsql.EntityFrameworkCore.PostgreSQL >= 9.0.4",
       "Reservas.Application >= 1.0.0",
       "Reservas.Infrastructure >= 1.0.0",
       "Swashbuckle.AspNetCore >= 9.0.1",
@@ -5385,23 +5453,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nicoll\\.nuget\\packages\\": {},
+    "C:\\Users\\nssev\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.API\\Reservas.API.csproj",
+      "projectUniqueName": "C:\\Users\\nssev\\OneDrive\\Escritorio\\APIs\\RESTful-Reservas\\ApiReservas\\Reservas.API\\Reservas.API.csproj",
       "projectName": "Reservas.API",
-      "projectPath": "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.API\\Reservas.API.csproj",
-      "packagesPath": "C:\\Users\\Nicoll\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.API\\obj\\",
+      "projectPath": "C:\\Users\\nssev\\OneDrive\\Escritorio\\APIs\\RESTful-Reservas\\ApiReservas\\Reservas.API\\Reservas.API.csproj",
+      "packagesPath": "C:\\Users\\nssev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nssev\\OneDrive\\Escritorio\\APIs\\RESTful-Reservas\\ApiReservas\\Reservas.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Nicoll\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nssev\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5417,11 +5485,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Application\\Reservas.Application.csproj": {
-              "projectPath": "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Application\\Reservas.Application.csproj"
+            "C:\\Users\\nssev\\OneDrive\\Escritorio\\APIs\\RESTful-Reservas\\ApiReservas\\Reservas.Application\\Reservas.Application.csproj": {
+              "projectPath": "C:\\Users\\nssev\\OneDrive\\Escritorio\\APIs\\RESTful-Reservas\\ApiReservas\\Reservas.Application\\Reservas.Application.csproj"
             },
-            "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Infrastructure\\Reservas.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Nicoll\\Desktop\\ApiReservas\\ApiReservas\\Reservas.Infrastructure\\Reservas.Infrastructure.csproj"
+            "C:\\Users\\nssev\\OneDrive\\Escritorio\\APIs\\RESTful-Reservas\\ApiReservas\\Reservas.Infrastructure\\Reservas.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\nssev\\OneDrive\\Escritorio\\APIs\\RESTful-Reservas\\ApiReservas\\Reservas.Infrastructure\\Reservas.Infrastructure.csproj"
             }
           }
         }
@@ -5464,6 +5532,10 @@
             "target": "Package",
             "version": "[4.20.72, )"
           },
+          "Npgsql.EntityFrameworkCore.PostgreSQL": {
+            "target": "Package",
+            "version": "[9.0.4, )"
+          },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[9.0.1, )"
@@ -5492,7 +5564,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
